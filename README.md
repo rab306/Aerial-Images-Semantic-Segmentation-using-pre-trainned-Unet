@@ -1,0 +1,2 @@
+# Aerial-Images-Semantic-Segmentation-using-pre-trainned-Unet
+This repository contains code for a semantic segmentation project using the U-Net architecture. The project utilizes a pre-trained U-Net model with a ResNet34 backbone for segmenting images into multiple classes. The code includes preprocessing steps, data augmentation, custom loss functions, and training routines with appropriate callbacks.
